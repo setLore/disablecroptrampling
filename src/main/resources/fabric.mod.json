@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "disablecroptrampling",
+	"version": "1.0.0",
+	"name": "Disable Crop Trampling",
+	"description": "A simple Fabric mod that prevents crops from being trampled when players or mobs walk over them.",
+	"authors": [
+		"setLore"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/disable-crop-trampling",
+		"discord": "setlore_",
+		"sources": "https://github.com/setLore/disablecroptrampling"
+	},
+	"license": "MIT",
+	"icon": "assets/disablecroptrampling/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"setlore.disablecroptrampling.DisableCropTrampling"
+		]
+	},
+	"mixins": [
+		"disablecroptrampling.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": ">=1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

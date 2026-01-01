@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "setlore.disablecroptrampling.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"DisableCropTramplingMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
