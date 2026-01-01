@@ -2,7 +2,7 @@
 A simple Fabric mod that stops players and mobs from trampling farmland. That's it. Literally.
 
 ### Requirements
-* [Fabric Loader](https://fabricmc.net/)\n
+* [Fabric Loader](https://fabricmc.net/)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 
 ### Installation
