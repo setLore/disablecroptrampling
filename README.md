@@ -2,8 +2,8 @@
 A simple Fabric mod that stops players and mobs from trampling farmland. That's it. Literally.
 
 ### Requirements
-[Fabric Loader](https://fabricmc.net/)
-[Fabric API](https://modrinth.com/mod/fabric-api)
+* [Fabric Loader](https://fabricmc.net/)\n
+* [Fabric API](https://modrinth.com/mod/fabric-api)
 
 ### Installation
 Drop the .jar file from the [releases](https://github.com/setLore/disablecroptrampling/releases) page into your mods folder
